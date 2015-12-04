@@ -1,0 +1,8 @@
+{
+  "name": "Express ",
+  "description": "Node.js app using Express 4",
+  "repository": "https://github.com/IsabellaAlves/03-express-ica-template",
+  "logo": "http://node-js-sample.herokuapp.com/node.svg",
+  "keywords": ["node", "express", "static"],
+  "image": "heroku/nodejs"
+}

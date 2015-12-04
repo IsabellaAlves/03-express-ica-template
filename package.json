@@ -6,6 +6,12 @@
   "scripts": {
     "start": "server.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/IsabellaAlves/03-express-ica-template"
+
+    
+  },
   "dependencies": {
     "express": "~4.0.0",
     "static-favicon": "~1.0.0",

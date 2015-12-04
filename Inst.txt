@@ -1,0 +1,21 @@
+DatabaseName= 03-express-ica-template
+DatabaseUser=03-express-ica-template-ica
+DatabasePassword = $$$03-nuvem-express-***
+
+mongodb://<dbuser>:<dbpassword>@ds054308.mongolab.com:54308/03-express-ica-template
+mongodb://03-express-ica-template-ica:$$$03-nuvem-express-***@ds054308.mongolab.com:54308/03-express-ica-template
+
+
+create database locally.
+
+1-gitBash
+2-mongo
+3-use databaseName
+4- show dbs
+
+----------------------------
+
+create database mongolab
+
+databaseName
+databasePassword
